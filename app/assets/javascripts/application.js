@@ -22,8 +22,6 @@
 //= require ./revolution/jquery.themepunch.tools.min
 //= require ./revolution/jquery.themepunch.revolution.min
 
-//= require ./revolution/extensions/revolution.extension.layeranimation.min
-//= require ./revolution/extensions/revolution.extension.navigation.min
-//= require ./revolution/extensions/revolution.extension.slideanims.min
+//= require ./revolution/extensions/revolution-extension
 
 //= require custom
